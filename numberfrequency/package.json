@@ -1,0 +1,14 @@
+{
+  "name": "numberfrequency",
+  "version": "1.0.0",
+  "description": "KAYAK Full Stack Software Engineer homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Jurgita Germanavičienė",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
